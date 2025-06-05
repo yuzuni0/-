@@ -74,7 +74,6 @@ const answers=[
   '###userName###のいいところは優しさです。###userName###の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
 ];
 
-
 /*
 *名前の文字列を渡すと診断結果を返す関数
 * @param {string} userName ユーザーの名前
